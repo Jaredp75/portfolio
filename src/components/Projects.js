@@ -15,6 +15,7 @@ import React, { Component } from 'react';
 	            <h3><a href="https://github.com/Jaredp75/ms_air_online" target ="_blank" rel="noopener noreferrer"><button className="button">See Project</button></a></h3>
 	         </div>
           </div>
+					
 	        <div className="project-header-wrapper">
 	            <div>
 	               <img className="project-photo" src="https://jaredpattersonblog.files.wordpress.com/2017/11/etsy_screenshot.png" alt ="Etsy"/>
