@@ -5,7 +5,7 @@ import registerServiceWorker from '../src/registerServiceWorker';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
 import Navbar from "./components/Navbar";
-import Portfolio from "./components/About";
+// import Portfolio from "./components/About";
 import About from "./components/About";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
@@ -14,7 +14,7 @@ ReactDOM.render(
   <BrowserRouter>
     <Navbar>
       <Switch>
-        <Route exact path = "/" component={Portfolio}/>
+        <Route exact path = "/portfolio" component={About}/>
         <Route path = "/about" component={About}/>
         <Route path = "/projects" component={Projects}/>
         <Route path = "/contact" component={Contact}/>
