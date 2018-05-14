@@ -7,15 +7,15 @@ import React, { Component } from 'react';
 	      <div>
 					<div className="project-header-wrapper">
 	            <div>
-	               <img className="project-photo" src="https://jaredpattersonblog.files.wordpress.com/2018/04/screen-shot-2018-04-20-at-12-33-37-pm.png" alt ="Etsy"/>
+	               <img className="project-photo" src="https://jaredpattersonblog.files.wordpress.com/2018/04/screen-shot-2018-04-20-at-12-33-37-pm.png" alt ="MS Air Online"/>
 	            </div>
 	         <div className="project-text">
 	            <h2>MS Air Online</h2>
 	            <h3>MS Air Online website redesign using React and API implementation (Currently in progress)</h3>
-	            <h3><a href="https://github.com/Jaredp75/ms_air_online" target ="_blank" rel="noopener noreferrer"><button className="button">See Project</button></a></h3>
+	            <h3><a href="http://qa1.msaironline.com/" target ="_blank" rel="noopener noreferrer"><button className="button">See Project</button></a></h3>
 	         </div>
           </div>
-					
+
 	        <div className="project-header-wrapper">
 	            <div>
 	               <img className="project-photo" src="https://jaredpattersonblog.files.wordpress.com/2017/11/etsy_screenshot.png" alt ="Etsy"/>
