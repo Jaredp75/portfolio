@@ -5,6 +5,12 @@ import React, { Component } from 'react';
 	  render(){
 	    return(
 	      <div>
+					<div className="project-wrapper">
+		        <h1>What I've Been Up To.</h1>
+						<h3>Here's a selection of some recent work. For more up to the minute work you can visit me on <a href="https://github.com/Jaredp75">Github</a>.</h3>
+		      </div>
+
+
 					<div className="project-header-wrapper">
 	            <div>
 	               <img className="project-photo" src="https://jaredpattersonblog.files.wordpress.com/2018/04/screen-shot-2018-04-20-at-12-33-37-pm.png" alt ="MS Air Online"/>
@@ -15,6 +21,10 @@ import React, { Component } from 'react';
 	            <h3><a href="http://qa1.msaironline.com/" target ="_blank" rel="noopener noreferrer"><button className="button">See Project</button></a></h3>
 	         </div>
           </div>
+
+
+
+
 
 	        <div className="project-header-wrapper">
 	            <div>
